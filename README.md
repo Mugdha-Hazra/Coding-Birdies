@@ -150,7 +150,7 @@ Welcome to **Coding-Birdies**, your **ultimate** destination for **mastering Dat
 ### Quick Links 🛠️💜
 
 - [Read the Docs](link-to-docs) 📚
-- [Open an Issue](link-to-issues) 🐞
+- [Open an Issue](https://github.com/username/repository-name/issues) 🐞
 - [Contribute](link-to-contribute) 🤝
 
 ---
