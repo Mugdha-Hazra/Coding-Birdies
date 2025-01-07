@@ -67,7 +67,7 @@ Welcome to **Coding-Birdies**, your **ultimate** destination for **mastering Dat
 
 ### Contributors 💜
 
-- **Madhu**: Passionate about algorithm design, tackling complex problems, and creating elegant solutions.
+- [Madhu](https://github.com/madhu73738): Passionate about algorithm design, tackling complex problems, and creating elegant solutions.
 - **Mugdha**: Experienced DSA coach with a talent for breaking down tricky concepts into simple, digestible steps.
 
 ---
